@@ -1,0 +1,42 @@
+.container {
+    position: absolute;
+    text-align: center;
+    top: 30%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+.search {
+    position: relative;
+    text-align: center;
+    top: 33px;
+    left: -30px;
+}
+.google {
+    position: relative;
+    color: red;
+    text-align: center;
+    top: 13px;
+    left: -30px;
+}
+.form {
+    position: absolute;
+    border-radius: 25px;
+    text-align: center;
+    width: 300px;
+    top: 80px;
+    left: -140px;
+}
+.images {
+    position: absolute;
+    text-align: right;
+    top: -160px;
+    left: 400px;
+}
+.advanced {
+    position: absolute;
+    text-align: right;
+    top: -160px;
+    left: 500px;
+}
